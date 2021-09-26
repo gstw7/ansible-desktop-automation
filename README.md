@@ -51,7 +51,7 @@ A instalação é feita através da execução do comando abaixo:
 
 **SHELL**
 ```bash
-wget -qO- https://raw.githubusercontent.com/leandrolanza/ansible-desktop-automation/master/install.sh | bash -
+wget -qO- https://raw.githubusercontent.com/gstw7/ansible-desktop-automation/master/install.sh | bash -
 ```
 
 ![ok](images/okok.gif)
