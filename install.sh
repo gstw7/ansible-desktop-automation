@@ -31,7 +31,7 @@ function CLONE_REPO() {
 	APP_DIR="/tmp/ansible"
 	CREATE_APP_DIR=$(mkdir -p $APP_DIR/$APP_NAME)
 	REPO_DIR="$APP_DIR/$APP_NAME"
-	REPO_URL="https://github.com/leandrolanza/ansible-desktop-automation.git"
+	REPO_URL="https://github.com/gstw7/ansible-desktop-automation.git"
 
 	echo "Cloning Repository in $REPO_DIR"
 
